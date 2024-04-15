@@ -1,4 +1,4 @@
-**Project Name: Comprehensive Data Analysis Project**
+*Project Name: Comprehensive Data Analysis Project*
 
 **Description:**
 This project encompasses various aspects of data analysis, including COVID-19 data visualization, SQL data cleaning and transformation, Excel data manipulation, and movie correlation analysis. Below is a detailed overview of each component:
