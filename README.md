@@ -8,7 +8,7 @@ The **<span style="color:#F39C12;">Comprehensive Data Analysis Project</span>** 
 
 **<span style="color:#E74C3C;">1. COVID-19 Dashboard:</span>**
 - A comprehensive Tableau dashboard offering insights into **<span style="color:#2980B9;">85,000+ global COVID-19 records</span>**.
-- Visualizes key metrics such as infection rates, mortality rates, and recovery rates, revealing a **<span style="color:#C0392B;">2.11% global death rate</span>**, with **<span style="color:#9B59B6;">Europe</span>** having the highest mortality at **<span style="color:#D35400;">1M+ deaths</span>**.
+- Visualizes key metrics such as infection rates, mortality rates, and recovery rates, revealing a **<span style="color:#C0392B;">2.11% global death rate</span>**, with **<span style="color:#9B59B6;">Europe</span>** having the highest continent-wise mortality at **<span style="color:#D35400;">1M+ deaths</span>**.
 - Interactive features allow users to customize views and explore data trends in detail.
 
 **<span style="color:#16A085;">2. SQL Queries for Data Cleaning and Transformation:</span>**
