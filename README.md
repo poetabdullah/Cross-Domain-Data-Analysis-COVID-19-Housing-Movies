@@ -1,4 +1,4 @@
-# <span style="color:#2E86C1;">📊 Comprehensive Data Analysis Project</span>
+# <span style="color:#2E86C1;">📊 Cross-Domain Data Analysis: COVID-19, Housing & Movies</span>
 
 ## <span style="color:#239B56;">📝 Description</span>
 
