@@ -27,6 +27,8 @@ The **<span style="color:#F39C12;">Comprehensive Data Analysis Project</span>** 
 - Download each file separately for individual use and analysis.
 - Run SQL scripts in any compatible database environment, or visualize the data using Python or Tableau.
 
+Access the dashboard: https://public.tableau.com/app/profile/abdullah.imran2120/viz/COVID-19Dashboard_17090390515270/Dashboard1
+
 ## <span style="color:#28B463;">🤝 Contributing</span>
 
 Contributions are welcome! Feel free to submit pull requests with enhancements or additional analyses. For significant changes, please open an issue to discuss proposed updates beforehand.
